@@ -1,0 +1,7 @@
+.gradient-text {
+  background-image: linear-gradient(blue,green,yellow);
+   background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: #217ee6; 
+}
+.text-center{  font-family: "Open Sans", sans-serif;}
